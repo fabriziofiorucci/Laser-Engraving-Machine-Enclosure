@@ -19,7 +19,7 @@ Features:
 
 <img src="./pics/raw_IMG_20220819_183403-thumb.jpg"/>
 <img src="./pics/raw_IMG_20220819_183358-thumb.jpg"/>
-<img src="./pics/raw_IMG_20221025_091200-thumb.jpg"/>
+<img src="./pics/raw_IMG_20221028_200635-thumb.jpg"/>
 
 ## Main structure
 
